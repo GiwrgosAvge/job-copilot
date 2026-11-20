@@ -5,7 +5,7 @@ Each milestone ends with something working, deployed, and committed through a pu
 ## Milestone 0 — Foundations (in progress)
 - [x] Next.js (App Router) + TypeScript + Tailwind scaffold
 - [ ] App shell: layout, navigation, landing page
-- [ ] GitHub repo + first CI workflow (lint, typecheck, build)
+- [x] GitHub repo + first CI workflow (lint, typecheck, build)
 - [ ] First deploy on Vercel (live URL from week one)
 
 ## Milestone 1 — Data layer
